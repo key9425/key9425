@@ -7,7 +7,8 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=key9425)  
   
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=key9425)](https://solved.ac/key9425)  
+[![Solved.ac profile](http://mazassumnida.wtf/api/generate_badge?boj=key9425)](https://solved.ac/profile/key9425)
+ 
 
 ## (앞으로 배울) Tech Stack
 <div>
